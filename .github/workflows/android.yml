@@ -42,3 +42,4 @@ jobs:
           name: Última APK
           files: app/build/outputs/apk/debug/app-debug.apk
           make_latest: true
+          overwrite_files: true
